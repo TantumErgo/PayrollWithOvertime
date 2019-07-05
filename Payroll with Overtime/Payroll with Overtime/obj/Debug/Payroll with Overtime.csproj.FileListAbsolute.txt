@@ -1,0 +1,9 @@
+c:\users\nik\documents\visual studio 2015\Projects\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe.config
+c:\users\nik\documents\visual studio 2015\Projects\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe
+c:\users\nik\documents\visual studio 2015\Projects\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.pdb
+c:\users\nik\documents\visual studio 2015\Projects\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csprojResolveAssemblyReference.cache
+c:\users\nik\documents\visual studio 2015\Projects\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll_with_Overtime.Form1.resources
+c:\users\nik\documents\visual studio 2015\Projects\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll_with_Overtime.Properties.Resources.resources
+c:\users\nik\documents\visual studio 2015\Projects\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.csproj.GenerateResource.Cache
+c:\users\nik\documents\visual studio 2015\Projects\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.exe
+c:\users\nik\documents\visual studio 2015\Projects\Payroll with Overtime\Payroll with Overtime\obj\Debug\Payroll with Overtime.pdb
